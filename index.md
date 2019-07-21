@@ -38,17 +38,23 @@ You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters fr
 
 
 {% assign chapolist = site.data.chapolist.chapos %}
-<table>
+<table style="width:75%; margin:0 auto;">
+
+<center>
+<h1>List of known Chapoposters</h1>
+</center>
+<br>
+
 <tr>
-    <td><h1>Username</h1></td>
-    <td><h1>Notes</h1></td>
+    <!-- <td><h1>Username</h1></td> -->
+    <!-- <td><h1>Notes</h1></td> -->
 </tr>
 
 {% for chapo in chapolist %}
 
   	<tr>
 	    <td><a href="http://www.reddit.com/u/{{chapo.name}}">{{chapo.name}}</a></td>
-	    <td>{{chapo.notes}}</td>
+	    <!-- <td>{{chapo.notes}}</td> -->
   	</tr>
 
 {% endfor%}
