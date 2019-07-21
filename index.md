@@ -22,12 +22,11 @@ KnowYourChapo is a 501(c)(3) organization dedicated to the detecting, indexing, 
 
 <br><br>
 <h1><u>What is a Chapoposter?</u></h1>
-A <b>Chapoposter</b> is a person who frequents the <b>r/ChapoTrapHouse subreddit</b>, a community known for encouraging <b>violence, bigotry, censorship, and harmful ideologies.</b>
+A <b>Chapoposter</b> is a person who frequents the <b>r/ChapoTrapHouse subreddit</b>, a community known for encouraging <b>violence, bigotry, and harmful ideologies.</b>
 
 <br><br>
 <h1><u>What can I do to help?</u></h1>
-You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters from being on the internet.
-
+You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters from being anywhere on the internet. 
 </font>
 </div>
 
