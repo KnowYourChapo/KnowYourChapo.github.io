@@ -26,11 +26,11 @@ A <b>Chapoposter</b> is a person who frequents the <b>r/ChapoTrapHouse subreddit
 
 <br><br>
 <h1><u>What we do</u></h1>
-We find Chapoposters who've ventured outside r/ChapoTrapHouse and <b>publicly call them out</b> for being a Chapoposter. This alerts others to their presence and discourages them from engaging with the rest of the internet.
+We find Chapoposters who've ventured outside r/ChapoTrapHouse and <b>publicly call them out</b> for being a Chapoposter. This alerts others to their presence and discourages them from engaging with the rest of the internet. We then <b>index</b> them permanently in our online database so their history of <b>extremism and hate</b> follows them wherever they go.
 
 <br><br>
 <h1><u>What can I do to help?</u></h1>
-You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters from being anywhere on the internet. 
+You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters from being anywhere on the internet.
 </font>
 </div>
 
