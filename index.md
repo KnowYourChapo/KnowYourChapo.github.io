@@ -59,6 +59,8 @@ You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters fr
 {% endfor%}
 </table>
 
+
+
 <br><br>
 
 <table>
@@ -72,6 +74,44 @@ You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters fr
 <font size = "5">
 
 KnowYourChapo is always looking for volunteers. If you're passionate about <b>ending hate on the internet</b>, email KnowYourChapo@gmail.com and let us know you'd like to get involved. 
+
+</font>
+</div>
+
+
+
+<br><br>
+
+<table>
+    <div class="featured-posts" 
+    style="background-image:url({{ site.github.url }}/assets/img/5bf7f6b594014ebdf8400ead7fce-1434347.jpg">
+    <h2><span>The leaders of tomorrow</span></h2>
+    </div>
+</table>
+
+<div style="width:75%;margin:0 auto;">
+<font size = "5">
+
+KnowYourChapo's mission never ends. That's why we need <b>leaders</b> to help keep our organization moving forward. Are you ready to take the leap? Email KnowYourChapo@gmail.com to learn more.
+
+</font>
+</div>
+
+
+
+<br><br>
+
+<table>
+    <div class="featured-posts" 
+    style="background-image:url({{ site.github.url }}/assets/img/140312-F-MF529-001.JPG">
+    <h2><span>Victims of online hate</span></h2>
+    </div>
+</table>
+
+<div style="width:75%;margin:0 auto;">
+<font size = "5">
+
+Have you been <b>victimized</b> by ChapoTrapHouse? You're not alone. Hundreds of people contact us every day with their story. Email KnowYourChapo@gmail.com and tell us yours.
 
 </font>
 </div>
