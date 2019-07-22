@@ -59,5 +59,19 @@ You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters fr
 {% endfor%}
 </table>
 
+<br><br>
 
+<table>
+    <div class="featured-posts" 
+    style="background-image:url({{ site.github.url }}/assets/img/adult-african-afro-1536863.jpg">
+    <h2><span>Be a part of the team</span></h2>
+    </div>
+</table>
 
+<div style="width:75%;margin:0 auto;">
+<font size = "5">
+
+KnowYourChapo is always looking for volunteers. If you're passionate about <b>ending hate on the internet</b>, email KnowYourChapo@gmail.com and let us know you'd like to get involved. 
+
+</font>
+</div>
