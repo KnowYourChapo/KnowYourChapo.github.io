@@ -49,15 +49,15 @@ You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters fr
 <br>
 
 <tr>
-    <!-- <td><h1>Username</h1></td> -->
-    <!-- <td><h1>Notes</h1></td> -->
+    <td><h1>Username</h1></td>
+    <td><h1>Number of offenses</h1></td>
 </tr>
 
 {% for chapo in chapolist %}
 
   	<tr>
-	    <td><a href="http://www.reddit.com/u/{{chapo.name}}">{{chapo.name}}</a></td>
-	    <!-- <td>{{chapo.notes}}</td> -->
+	   <td><a href="http://www.reddit.com/u/{{chapo.name}}">{{chapo.name}}</a></td>
+	   <td>{{chapo.notes}}</td>
   	</tr>
 
 {% endfor%}
