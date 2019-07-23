@@ -30,23 +30,29 @@ We find Chapoposters who've ventured outside r/ChapoTrapHouse and <b>publicly ca
 
 <br><br>
 <h1><u>What can I do to help?</u></h1>
-You can help by <b>downvoting, calling out, and discouraging</b> Chapoposters from being anywhere on the internet.
+You can help by <b>downvoting, calling out, and shaming</b> Chapoposters anywhere you see them. It's helpful to remember the three D's: <b>downvote, discourage, deride</b>.
+
+<br><br><br><br>
+<center>
+Below is a list of known Chapoposters. The users at the top of the list are <b>high-priority offenders</b>:
+ those that have the highest amount of activity outside of r/ChapoTrapHouse. High-priority offenders require the <b>most amount of attention</b> from community members. If you encounter them, remember to <b>aggressively</b> apply the three D's.
+
+
+</center>
+
 </font>
 </div>
 
 
 
-<br><br>
+<br>
 
 
 
 {% assign chapolist = site.data.chapolist.chapos %}
 <table style="width:75%; margin:0 auto;">
 
-<center>
-<h1>List of known Chapoposters</h1>
-</center>
-<br>
+
 
 <tr>
     <td><h1>Username</h1></td>
