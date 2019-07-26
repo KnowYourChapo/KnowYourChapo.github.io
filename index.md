@@ -30,12 +30,16 @@ We find Chapoposters who've ventured outside r/ChapoTrapHouse and <b>publicly ca
 
 <br><br>
 <h1><u>What can I do to help?</u></h1>
-You can help by <b>downvoting, calling out, and shaming</b> Chapoposters anywhere you see them. It's helpful to remember the three D's: <b>downvote, discourage, deride</b>.
+You can help by <b>downvoting and calling out</b> Chapoposters anywhere you see them. It's helpful to remember the three D's: <b>downvote, discourage, deride</b>.
 
 <br><br><br><br>
 <center>
 Below is a list of known Chapoposters. The users at the top of the list are <b>high-priority offenders</b>:
- those that have the highest amount of activity outside of r/ChapoTrapHouse. High-priority offenders require the <b>most amount of attention</b> from community members. If you encounter them, remember to <b>aggressively</b> apply the three D's.
+ those that have the highest amount of activity outside of r/ChapoTrapHouse. If you encounter them, remember to <b>aggressively</b> apply the three D's.
+
+<br><br>
+
+ <b>NOTE:</b> the extremists that our organization targets have successfully <b>disabled a portion of our collection infrastructure</b> by getting the KnowYourChapo reddit bot suspended. The user collection process is still taking place, but the bot that alerts people is no longer active. Our public outreach team is currently working on a more robust solution. In the mean time, remember to check back here regularly and continue to help fight hate online.
 
 
 </center>
