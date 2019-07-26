@@ -10,7 +10,7 @@
         },
         {
             "name": "UnscalableCheekbones",
-            "notes": 19
+            "notes": 20
         },
         {
             "name": "Anonymous_Ascendent",
@@ -25,23 +25,31 @@
             "notes": 16
         },
         {
-            "name": "WintersNstuff",
-            "notes": 15
-        },
-        {
             "name": "LizardGirl0",
             "notes": 15
         },
         {
-            "name": "Labompa",
-            "notes": 10
+            "name": "WintersNstuff",
+            "notes": 15
         },
         {
             "name": "CarsGunsnWomen",
             "notes": 10
         },
         {
+            "name": "Labompa",
+            "notes": 10
+        },
+        {
+            "name": "Jovan_Jankovic",
+            "notes": 9
+        },
+        {
             "name": "saokku",
+            "notes": 8
+        },
+        {
+            "name": "AstraPerAspera",
             "notes": 8
         },
         {
@@ -53,11 +61,11 @@
             "notes": 7
         },
         {
-            "name": "RoteCapableSavant",
+            "name": "WisconsinBengalsFan",
             "notes": 7
         },
         {
-            "name": "WisconsinBengalsFan",
+            "name": "RoteCapableSavant",
             "notes": 7
         },
         {
@@ -65,23 +73,7 @@
             "notes": 6
         },
         {
-            "name": "AstraPerAspera",
-            "notes": 6
-        },
-        {
-            "name": "LTsearring",
-            "notes": 6
-        },
-        {
-            "name": "Throw-A-Weigh69",
-            "notes": 6
-        },
-        {
-            "name": "Jovan_Jankovic",
-            "notes": 6
-        },
-        {
-            "name": "sulidos",
+            "name": "ThomasDankara",
             "notes": 6
         },
         {
@@ -89,7 +81,19 @@
             "notes": 6
         },
         {
+            "name": "Throw-A-Weigh69",
+            "notes": 6
+        },
+        {
             "name": "shitapillars",
+            "notes": 6
+        },
+        {
+            "name": "sulidos",
+            "notes": 6
+        },
+        {
+            "name": "LTsearring",
             "notes": 6
         },
         {
@@ -105,19 +109,19 @@
             "notes": 5
         },
         {
-            "name": "Statistical_Insanity",
-            "notes": 4
-        },
-        {
             "name": "Jgilla9300",
             "notes": 4
         },
         {
-            "name": "dickmullen420",
+            "name": "Statistical_Insanity",
             "notes": 4
         },
         {
             "name": "classicrecto",
+            "notes": 4
+        },
+        {
+            "name": "dickmullen420",
             "notes": 4
         },
         {
@@ -129,47 +133,7 @@
             "notes": 4
         },
         {
-            "name": "PointOfRecklessness",
-            "notes": 3
-        },
-        {
-            "name": "_haydad",
-            "notes": 3
-        },
-        {
-            "name": "BalladOfBustinNuts",
-            "notes": 3
-        },
-        {
-            "name": "LicenceNo42069",
-            "notes": 3
-        },
-        {
-            "name": "heisenberg_97",
-            "notes": 3
-        },
-        {
-            "name": "ChineseDangerfield",
-            "notes": 3
-        },
-        {
-            "name": "berniebigdicksanders",
-            "notes": 3
-        },
-        {
-            "name": "booboohoob",
-            "notes": 3
-        },
-        {
-            "name": "Kilois",
-            "notes": 3
-        },
-        {
-            "name": "baruchlesnar",
-            "notes": 3
-        },
-        {
-            "name": "chik-fil-a",
+            "name": "LinkBalls",
             "notes": 3
         },
         {
@@ -177,19 +141,7 @@
             "notes": 3
         },
         {
-            "name": "AlephNolan",
-            "notes": 3
-        },
-        {
-            "name": "LinkBalls",
-            "notes": 3
-        },
-        {
-            "name": "Alexander-the-II",
-            "notes": 3
-        },
-        {
-            "name": "mystery_tramp",
+            "name": "_haydad",
             "notes": 3
         },
         {
@@ -197,31 +149,59 @@
             "notes": 3
         },
         {
-            "name": "UnfortunatelyLucky",
-            "notes": 2
+            "name": "booboohoob",
+            "notes": 3
         },
         {
-            "name": "ThomasDankara",
-            "notes": 2
+            "name": "baruchlesnar",
+            "notes": 3
         },
         {
-            "name": "churnthrowaway123456",
-            "notes": 2
+            "name": "ChineseDangerfield",
+            "notes": 3
+        },
+        {
+            "name": "Kilois",
+            "notes": 3
+        },
+        {
+            "name": "berniebigdicksanders",
+            "notes": 3
+        },
+        {
+            "name": "Alexander-the-II",
+            "notes": 3
+        },
+        {
+            "name": "BalladOfBustinNuts",
+            "notes": 3
+        },
+        {
+            "name": "mystery_tramp",
+            "notes": 3
+        },
+        {
+            "name": "chik-fil-a",
+            "notes": 3
+        },
+        {
+            "name": "heisenberg_97",
+            "notes": 3
+        },
+        {
+            "name": "AlephNolan",
+            "notes": 3
+        },
+        {
+            "name": "LicenceNo42069",
+            "notes": 3
+        },
+        {
+            "name": "PointOfRecklessness",
+            "notes": 3
         },
         {
             "name": "GregorSamsa69",
-            "notes": 2
-        },
-        {
-            "name": "Wondroid",
-            "notes": 2
-        },
-        {
-            "name": "Pentameme",
-            "notes": 2
-        },
-        {
-            "name": "ImTimmyTrumpet",
             "notes": 2
         },
         {
@@ -229,11 +209,11 @@
             "notes": 2
         },
         {
-            "name": "im_so_objective",
+            "name": "IdahoKangaroo",
             "notes": 2
         },
         {
-            "name": "forrest_11",
+            "name": "ChickenTitilater",
             "notes": 2
         },
         {
@@ -241,11 +221,7 @@
             "notes": 2
         },
         {
-            "name": "REbr0",
-            "notes": 2
-        },
-        {
-            "name": "RiskeyBiznu",
+            "name": "douglasjayfalcon",
             "notes": 2
         },
         {
@@ -253,19 +229,43 @@
             "notes": 2
         },
         {
-            "name": "SouthernCommieNudist",
+            "name": "SuperOffensiveMan",
+            "notes": 2
+        },
+        {
+            "name": "UnfortunatelyLucky",
+            "notes": 2
+        },
+        {
+            "name": "RoboGara",
+            "notes": 2
+        },
+        {
+            "name": "Wondroid",
+            "notes": 2
+        },
+        {
+            "name": "forrest_11",
+            "notes": 2
+        },
+        {
+            "name": "Susplant",
+            "notes": 2
+        },
+        {
+            "name": "Haakipulver",
+            "notes": 2
+        },
+        {
+            "name": "Pentameme",
+            "notes": 2
+        },
+        {
+            "name": "MichaelCeraLaPuerta",
             "notes": 2
         },
         {
             "name": "Frampt",
-            "notes": 2
-        },
-        {
-            "name": "IdahoKangaroo",
-            "notes": 2
-        },
-        {
-            "name": "authoritarianTrotsky",
             "notes": 2
         },
         {
@@ -277,31 +277,11 @@
             "notes": 2
         },
         {
-            "name": "SuperOffensiveMan",
+            "name": "REbr0",
             "notes": 2
         },
         {
-            "name": "jet_fuel_",
-            "notes": 2
-        },
-        {
-            "name": "ChickenTitilater",
-            "notes": 2
-        },
-        {
-            "name": "Susplant",
-            "notes": 2
-        },
-        {
-            "name": "ffcurlich",
-            "notes": 2
-        },
-        {
-            "name": "Haakipulver",
-            "notes": 2
-        },
-        {
-            "name": "douglasjayfalcon",
+            "name": "ImTimmyTrumpet",
             "notes": 2
         },
         {
@@ -313,7 +293,31 @@
             "notes": 2
         },
         {
-            "name": "MichaelCeraLaPuerta",
+            "name": "RiskeyBiznu",
+            "notes": 2
+        },
+        {
+            "name": "authoritarianTrotsky",
+            "notes": 2
+        },
+        {
+            "name": "churnthrowaway123456",
+            "notes": 2
+        },
+        {
+            "name": "im_so_objective",
+            "notes": 2
+        },
+        {
+            "name": "ffcurlich",
+            "notes": 2
+        },
+        {
+            "name": "jet_fuel_",
+            "notes": 2
+        },
+        {
+            "name": "SouthernCommieNudist",
             "notes": 2
         },
         {
@@ -321,19 +325,47 @@
             "notes": 1
         },
         {
-            "name": "A_S_I",
+            "name": "vikingofamerica",
             "notes": 1
         },
         {
-            "name": "jtrain7",
+            "name": "Amorphous___",
             "notes": 1
         },
         {
-            "name": "TheNewMotor",
+            "name": "dakanektr",
             "notes": 1
         },
         {
-            "name": "Young_Baby",
+            "name": "MoltenBallofHatred",
+            "notes": 1
+        },
+        {
+            "name": "pm_me_spankingvids",
+            "notes": 1
+        },
+        {
+            "name": "KingCharles_",
+            "notes": 1
+        },
+        {
+            "name": "DustyFalmouth",
+            "notes": 1
+        },
+        {
+            "name": "Ianerick",
+            "notes": 1
+        },
+        {
+            "name": "n_mullen",
+            "notes": 1
+        },
+        {
+            "name": "KnowYourChapo",
+            "notes": 1
+        },
+        {
+            "name": "cyborgx7",
             "notes": 1
         },
         {
@@ -341,43 +373,15 @@
             "notes": 1
         },
         {
-            "name": "freecostcosample",
+            "name": "Esoteir",
             "notes": 1
         },
         {
-            "name": "Neronco",
+            "name": "I_Hate_Raccoons",
             "notes": 1
         },
         {
-            "name": "gotem",
-            "notes": 1
-        },
-        {
-            "name": "Ballsfacey1",
-            "notes": 1
-        },
-        {
-            "name": "MrMathbot",
-            "notes": 1
-        },
-        {
-            "name": "jaq_the_ripper",
-            "notes": 1
-        },
-        {
-            "name": "bb885566",
-            "notes": 1
-        },
-        {
-            "name": "RapistWithGayAIDS",
-            "notes": 1
-        },
-        {
-            "name": "MountSwolympus",
-            "notes": 1
-        },
-        {
-            "name": "wellshit420",
+            "name": "themightygrizzly",
             "notes": 1
         },
         {
@@ -385,7 +389,71 @@
             "notes": 1
         },
         {
-            "name": "vikingofamerica",
+            "name": "BlackFlagZigZag",
+            "notes": 1
+        },
+        {
+            "name": "andr01dsdream",
+            "notes": 1
+        },
+        {
+            "name": "burg_philo",
+            "notes": 1
+        },
+        {
+            "name": "i_like_fried_cheese",
+            "notes": 1
+        },
+        {
+            "name": "gotem",
+            "notes": 1
+        },
+        {
+            "name": "MySQ_uirre_L",
+            "notes": 1
+        },
+        {
+            "name": "theropers",
+            "notes": 1
+        },
+        {
+            "name": "Young_Baby",
+            "notes": 1
+        },
+        {
+            "name": "Scottyboi110",
+            "notes": 1
+        },
+        {
+            "name": "WigganBiggan",
+            "notes": 1
+        },
+        {
+            "name": "The__Reckoner",
+            "notes": 1
+        },
+        {
+            "name": "trebbv",
+            "notes": 1
+        },
+        {
+            "name": "Neronco",
+            "notes": 1
+        },
+        {
+            "name": "ShoegazeJezza",
+            "notes": 1
+        },
+        {
+            "name": "NakedHalloween",
+            "notes": 1
+        },
+        {
+            "name": "spidersburg",
+            "notes": 1
+        },
+        {
+            "name": "JortsClooney",
             "notes": 1
         },
         {
@@ -397,159 +465,7 @@
             "notes": 1
         },
         {
-            "name": "greengreenrockyroads",
-            "notes": 1
-        },
-        {
-            "name": "Napinco",
-            "notes": 1
-        },
-        {
-            "name": "SadPraxis",
-            "notes": 1
-        },
-        {
-            "name": "GeraltOfRivia",
-            "notes": 1
-        },
-        {
-            "name": "andr01dsdream",
-            "notes": 1
-        },
-        {
-            "name": "Charonia",
-            "notes": 1
-        },
-        {
-            "name": "Scottyboi110",
-            "notes": 1
-        },
-        {
-            "name": "ghostofsarcasm24",
-            "notes": 1
-        },
-        {
-            "name": "marselle_music",
-            "notes": 1
-        },
-        {
-            "name": "Calibeast",
-            "notes": 1
-        },
-        {
-            "name": "yodes55",
-            "notes": 1
-        },
-        {
-            "name": "drbugfuck",
-            "notes": 1
-        },
-        {
-            "name": "burg_philo",
-            "notes": 1
-        },
-        {
             "name": "Jebist",
-            "notes": 1
-        },
-        {
-            "name": "spidersburg",
-            "notes": 1
-        },
-        {
-            "name": "theropers",
-            "notes": 1
-        },
-        {
-            "name": "Ganzi",
-            "notes": 1
-        },
-        {
-            "name": "trebbv",
-            "notes": 1
-        },
-        {
-            "name": "TheUltimateEscapist",
-            "notes": 1
-        },
-        {
-            "name": "ironicscumfuck",
-            "notes": 1
-        },
-        {
-            "name": "filthbuttshits",
-            "notes": 1
-        },
-        {
-            "name": "7DeadlyFetishes",
-            "notes": 1
-        },
-        {
-            "name": "andrecousins",
-            "notes": 1
-        },
-        {
-            "name": "Grimaceslips",
-            "notes": 1
-        },
-        {
-            "name": "pm_me_spankingvids",
-            "notes": 1
-        },
-        {
-            "name": "Ianerick",
-            "notes": 1
-        },
-        {
-            "name": "Esoteir",
-            "notes": 1
-        },
-        {
-            "name": "tommyerstransplant",
-            "notes": 1
-        },
-        {
-            "name": "traptaco",
-            "notes": 1
-        },
-        {
-            "name": "MontyAtWork",
-            "notes": 1
-        },
-        {
-            "name": "JortsClooney",
-            "notes": 1
-        },
-        {
-            "name": "KingCharles_",
-            "notes": 1
-        },
-        {
-            "name": "Clibanarius",
-            "notes": 1
-        },
-        {
-            "name": "Fabulwesen",
-            "notes": 1
-        },
-        {
-            "name": "libcum",
-            "notes": 1
-        },
-        {
-            "name": "ararepupper",
-            "notes": 1
-        },
-        {
-            "name": "DustyFalmouth",
-            "notes": 1
-        },
-        {
-            "name": "darDARWINwin",
-            "notes": 1
-        },
-        {
-            "name": "themightygrizzly",
             "notes": 1
         },
         {
@@ -557,11 +473,47 @@
             "notes": 1
         },
         {
-            "name": "ShoegazeJezza",
+            "name": "Grimaceslips",
             "notes": 1
         },
         {
-            "name": "WigganBiggan",
+            "name": "jtrain7",
+            "notes": 1
+        },
+        {
+            "name": "backwallbusta",
+            "notes": 1
+        },
+        {
+            "name": "jaq_the_ripper",
+            "notes": 1
+        },
+        {
+            "name": "Barontrump420",
+            "notes": 1
+        },
+        {
+            "name": "7DeadlyFetishes",
+            "notes": 1
+        },
+        {
+            "name": "greengreenrockyroads",
+            "notes": 1
+        },
+        {
+            "name": "brazotontodelaley",
+            "notes": 1
+        },
+        {
+            "name": "andrecousins",
+            "notes": 1
+        },
+        {
+            "name": "traptaco",
+            "notes": 1
+        },
+        {
+            "name": "filthbuttshits",
             "notes": 1
         },
         {
@@ -569,15 +521,15 @@
             "notes": 1
         },
         {
-            "name": "I_Hate_Raccoons",
+            "name": "Ganzi",
             "notes": 1
         },
         {
-            "name": "n_mullen",
+            "name": "ararepupper",
             "notes": 1
         },
         {
-            "name": "cyborgx7",
+            "name": "JakeyJowels",
             "notes": 1
         },
         {
@@ -585,19 +537,27 @@
             "notes": 1
         },
         {
-            "name": "NakedHalloween",
+            "name": "SENCARTG4",
             "notes": 1
         },
         {
-            "name": "butiusedtotoo",
+            "name": "MountSwolympus",
             "notes": 1
         },
         {
-            "name": "BlackFlagZigZag",
+            "name": "ghostofsarcasm24",
             "notes": 1
         },
         {
-            "name": "MoltenBallofHatred",
+            "name": "theundeadpixel",
+            "notes": 1
+        },
+        {
+            "name": "Ballsfacey1",
+            "notes": 1
+        },
+        {
+            "name": "Fabulwesen",
             "notes": 1
         },
         {
@@ -605,7 +565,67 @@
             "notes": 1
         },
         {
-            "name": "JakeyJowels",
+            "name": "libcum",
+            "notes": 1
+        },
+        {
+            "name": "TheUltimateEscapist",
+            "notes": 1
+        },
+        {
+            "name": "lemonman456",
+            "notes": 1
+        },
+        {
+            "name": "butiusedtotoo",
+            "notes": 1
+        },
+        {
+            "name": "yodes55",
+            "notes": 1
+        },
+        {
+            "name": "cheddarbunzz",
+            "notes": 1
+        },
+        {
+            "name": "inwardlunar",
+            "notes": 1
+        },
+        {
+            "name": "MrMathbot",
+            "notes": 1
+        },
+        {
+            "name": "tommyerstransplant",
+            "notes": 1
+        },
+        {
+            "name": "RapistWithGayAIDS",
+            "notes": 1
+        },
+        {
+            "name": "Calibeast",
+            "notes": 1
+        },
+        {
+            "name": "TheNewMotor",
+            "notes": 1
+        },
+        {
+            "name": "A_S_I",
+            "notes": 1
+        },
+        {
+            "name": "Charonia",
+            "notes": 1
+        },
+        {
+            "name": "wellshit420",
+            "notes": 1
+        },
+        {
+            "name": "MontyAtWork",
             "notes": 1
         },
         {
@@ -617,55 +637,11 @@
             "notes": 1
         },
         {
-            "name": "i_like_fried_cheese",
+            "name": "Clibanarius",
             "notes": 1
         },
         {
-            "name": "cheddarbunzz",
-            "notes": 1
-        },
-        {
-            "name": "MySQ_uirre_L",
-            "notes": 1
-        },
-        {
-            "name": "lemonman456",
-            "notes": 1
-        },
-        {
-            "name": "inwardlunar",
-            "notes": 1
-        },
-        {
-            "name": "SENCARTG4",
-            "notes": 1
-        },
-        {
-            "name": "brazotontodelaley",
-            "notes": 1
-        },
-        {
-            "name": "Amorphous___",
-            "notes": 1
-        },
-        {
-            "name": "iowaexport",
-            "notes": 1
-        },
-        {
-            "name": "The__Reckoner",
-            "notes": 1
-        },
-        {
-            "name": "Barontrump420",
-            "notes": 1
-        },
-        {
-            "name": "theundeadpixel",
-            "notes": 1
-        },
-        {
-            "name": "KnowYourChapo",
+            "name": "ironicscumfuck",
             "notes": 1
         },
         {
@@ -673,11 +649,39 @@
             "notes": 1
         },
         {
-            "name": "backwallbusta",
+            "name": "bb885566",
             "notes": 1
         },
         {
-            "name": "dakanektr",
+            "name": "GeraltOfRivia",
+            "notes": 1
+        },
+        {
+            "name": "drbugfuck",
+            "notes": 1
+        },
+        {
+            "name": "freecostcosample",
+            "notes": 1
+        },
+        {
+            "name": "marselle_music",
+            "notes": 1
+        },
+        {
+            "name": "darDARWINwin",
+            "notes": 1
+        },
+        {
+            "name": "Napinco",
+            "notes": 1
+        },
+        {
+            "name": "SadPraxis",
+            "notes": 1
+        },
+        {
+            "name": "iowaexport",
             "notes": 1
         }
     ]
